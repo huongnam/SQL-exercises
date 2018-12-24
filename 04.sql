@@ -1,4 +1,4 @@
 SELECT name, capacity
 FROM stadiums
 ORDER BY capacity DESC
-LIMIT 1
+LIMIT 1;
