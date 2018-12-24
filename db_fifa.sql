@@ -9601,7 +9601,7 @@ COPY persons (id, first_name, last_name, job, shirt_number, date_of_birth, count
 359	Roozbeh	CHESHMI	Defender	4	1993-07-24	Iran	Iran	29
 360	David	DE GEA	Goalie	1	1990-11-07	Spain	Spain	9
 361	Dani	CARVAJAL	Defender	2	1992-01-11	Spain	Spain	9
-362	Gerard	PIQUE	Defender	3 1988-02-02 9
+362	Gerard	PIQUE	Defender	3	\N	\N	\N	9
 363	Sergio	BUSQUETS	Midfield	5	\N	\N	\N	9
 364	Andres	INIESTA	Midfield	6	\N	\N	\N	9
 365	Lucas	VAZQUEZ	Forward	11	\N	\N	\N	9
